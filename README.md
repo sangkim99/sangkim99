@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![sangkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkim99&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkim99&layout=compact)
