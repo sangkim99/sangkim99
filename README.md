@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🔭 I’m currently working at [@banksalad](https://github.com/banksalad)
-
 <!--
 **sangkim99/sangkim99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
